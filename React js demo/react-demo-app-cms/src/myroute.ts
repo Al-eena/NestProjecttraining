@@ -1,5 +1,5 @@
 
-import * as path from 'path';
+import * as path from "path"
 import { Component } from "react";
 import { createBrowserRouter } from "react-router";
 import App from "./App";
