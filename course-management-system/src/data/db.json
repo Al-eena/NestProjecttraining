@@ -1,0 +1,25 @@
+{
+    "Courses": [
+      {
+        "id": "779b0edd-af100-4ee1-867c-4e771c008888",
+        "courseName": "Nest practice",
+        "description": "Nest JS introduction 101",
+        "courseDuration": 10,
+        "status": "PLANNED"
+      },
+      {
+        "id": "166f0735-a8de-428d-a3cd-97b1ca8fgr43c",
+        "courseName": "Python",
+        "description": "Welcome to Python",
+        "courseDuration": 20,
+        "status": "COMPLETED"
+      },
+      {
+        "id": "5462r1-cdfd-56hf-7hef-96hfvtd5gfad",
+        "courseName": ".Net training",
+        "description": "dot Net core intoduction",
+        "courseDuration": 15,
+        "status": "PLANNED"
+      }
+    ]
+  }
