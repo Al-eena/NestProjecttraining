@@ -1,3 +1,4 @@
+import axios from "axios";
 import React from "react";
 
 class Sample1 extends React.Component {
@@ -9,6 +10,17 @@ class Sample1 extends React.Component {
     };   
     this.showme= this.showme.bind(this);
     this.ontextChange= this.ontextChange.bind(this); 
+  }
+
+  componentDidMount(): void {
+    axios.get("http://localhost:5000/course")
+  }
+
+  componentDidUpdate(prevProps: Readonly<{}>, prevState: Readonly<{}>, snapshot?: any): void {
+    // origial . changes
+  }
+  componentWillUnmount(): void {
+    
   }
 
   // text change 

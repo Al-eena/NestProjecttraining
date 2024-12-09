@@ -1,8 +1,39 @@
 {
-    "users":[
-
-    ],
-    "courses":[
-        
+    "courses": [
+      {
+        "id": "b09a",
+        "cName": "React Js",
+        "cDescription": "Learning React JS"
+      },
+      {
+        "id": "bf87",
+        "cName": "Nest JS",
+        "cDescription": "Nest Js"
+      },
+      {
+        "id": "cca2",
+        "cName": "Python",
+        "cDescription": "Learning with Python"
+      },
+      {
+        "id": "0509",
+        "cName": ".net Core",
+        "cDescription": "Dotnet Core "
+      },
+      {
+        "id": "f5f1",
+        "cName": "C#",
+        "cDescription": "C# Basics"
+      },
+      {
+        "id": "3c5b",
+        "cName": "let test",
+        "cDescription": "test again "
+      },
+      {
+        "id": "f65b",
+        "cName": "dcnAKJBSJK",
+        "cDescription": "JNJVBDKJSBDJKBS"
+      }
     ]
-}
+  }

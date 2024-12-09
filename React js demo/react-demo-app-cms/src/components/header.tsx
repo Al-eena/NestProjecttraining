@@ -21,18 +21,17 @@ const Header = (props: any) => {
             </NavLink>
           </Nav>
           <Nav>
+            {/* conditionl rendering the compontos */}
             {!isLoginStatus ? (
               <>
-              <Nav className="me-auto">
+                {/* <Nav.Link href="#features">Register</Nav.Link>
+                <Nav.Link href="#features">Login</Nav.Link> */}
                 <NavLink className="nav-link" to={"login"}>
                   Login
                 </NavLink>
-              </Nav>
-              <Nav className="me-auto">
                 <NavLink className="nav-link" to={"register"}>
                   Register
                 </NavLink>
-              </Nav>
               </>
             ) : (
               <Nav.Link href="#pricing">Logout</Nav.Link>
