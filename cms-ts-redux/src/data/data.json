@@ -1,0 +1,40 @@
+{
+    "courses": [
+      {
+        "id": "b09a",
+        "cName": "React Js",
+        "cDescription": "Learning React JS"
+      },
+      {
+        "id": "bf87",
+        "cName": "React Com",
+        "cDescription": "Componnets in React"
+      },
+      {
+        "id": "cca2",
+        "cName": "test 2",
+        "cDescription": "testing the data"
+      },
+      {
+        "id": "81e0",
+        "cName": "sdfDFasdaS",
+        "cDescription": "SASDasdasd"
+      },
+      {
+        "id": "4ffb",
+        "cName": "qdwqweqw",
+        "cDescription": "wqeweqwqweqwe"
+      },
+      {
+        "id": "c1e1",
+        "cName": "dsfASDasd",
+        "cDescription": "asdasdasdasda"
+      },
+      {
+        "id": "8f73",
+        "cName": "aasdasdas",
+        "cDescription": "asdasdasdadsasd"
+      }
+    ],
+    "users": []
+  }
